@@ -1,0 +1,24 @@
+{
+  "name": "mapty-app",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000a\u0000p\u0000t\u0000y\u0000-\u0000a\u0000p\u0000p\u0000\r\u0000 \u0000",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansisindhu/mapty-app.git"
+  },
+  "author": "Mansi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansisindhu/mapty-app/issues"
+  },
+  "homepage": "https://github.com/mansisindhu/mapty-app#readme",
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "lodash-es": "^4.17.21",
+    "parcel": "^2.0.0-beta.2"
+  }
+}
